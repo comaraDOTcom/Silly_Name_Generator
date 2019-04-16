@@ -2,8 +2,10 @@
 # coding: utf-8 # 
 ## The Silly Name Generator 
 # Author: Conor O'Mara 
-# # Date: 16/04/2019 # 
-# Header: This code uses two lists, first and last to randomly create silly nicknames # In[6]: 
+# # Date: 16/04/2019  
+# Header: This code uses two lists, first and last to randomly create silly nicknames  
+
+# This code gets a -15.78/10 on pylint lol
 
 import sys, random 
 print("Welcome to the Silly Name Generator, created by COMARA CORP\n" "I hope you are ready to have some fun") 
