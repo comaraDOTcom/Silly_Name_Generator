@@ -7,5 +7,5 @@ Here I try to build a silly name generator to compete with the nutty nicknames c
 Things I learnt doing this project were:  
 	1. pylint  
 	2. pydocstyle  
-	3. if __name__ == "__main":  
+	3. if \_\_name\_\_ == "\_\_main\_\_":  
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	main()
