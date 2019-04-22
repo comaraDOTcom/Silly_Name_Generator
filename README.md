@@ -8,4 +8,4 @@ Things I learnt doing this project were:
 	1. pylint  
 	2. pydocstyle  
 	3. if __name__ == "__main":  
-	&nbsp;&nbsp;&nbsp;&nbsp;	main()
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	main()
