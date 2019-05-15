@@ -4,8 +4,8 @@ This code is for building a silly_name_generator, based on the TV show "Psych" i
 
 Here I try to build a silly name generator to compete with the nutty nicknames concocted by Spencer's imagination!
 
-Things I learnt doing this project were:
+Things I learnt doing this project were:  
 	1. pylint  
 	2. pydocstyle  
-	3. if __name__ == "__main":  
-		main()
+	3. if \_\_name\_\_ == "\_\_main\_\_":  
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	main()
