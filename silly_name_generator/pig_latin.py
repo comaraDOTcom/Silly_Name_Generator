@@ -44,7 +44,7 @@ def pig_vow(word):
 def main():
     """Convert string from user input to pig-latin."""
     print("This code will write a phrase of your choice in Pig Latin\n")
-    user_phrase = raw_input("Please enter your phrase: ")
+    user_phrase = input("Please enter your phrase: ")
     phrase_list = user_phrase.split()
     output = []
     # pylint suggested enumerate instead of range(len(list))
