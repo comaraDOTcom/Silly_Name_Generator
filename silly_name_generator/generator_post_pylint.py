@@ -39,7 +39,8 @@ def main():
     """
     print("Welcome to the Silly Name Generator, created by COMARA CORP\n")
     print("I hope you are ready to have some fun")
-
+    # note these are tuples, not lists...does this allow random to be
+    # used in this way?
     first = (
         'Baby Oil', 'Bad News', 'Big Burps', "Bill 'Beenie-Weenie'",
         "Bob 'Stinkbug'", 'Bowel Noises', 'Boxelder', "Bud 'Lite' ",
